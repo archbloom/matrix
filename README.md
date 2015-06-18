@@ -1,6 +1,6 @@
-===Matrix Multiplication===
+####Matrix Multiplication####
 
 This has operations like:
-    ADD
-    SUBTRACT
-    Multiply
+    1.ADD
+    2.SUBTRACT
+    3.MULTIPLY
